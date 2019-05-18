@@ -1,7 +1,7 @@
 body{
     margin:0px;
     /* background:#4aaaa5; */
-  
+    background-image: url("../images/green_dust_scratch.png");
 }
 .header {
     height:75px;
