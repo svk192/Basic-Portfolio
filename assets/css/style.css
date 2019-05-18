@@ -95,6 +95,7 @@ footer{
     color: white;
     font-size: 15px;
     padding: 11px 25px;
+    border:1px solid #4aaaa5;
 }
 
 .form{
@@ -102,4 +103,18 @@ footer{
     font-size: 20px;
     line-height: 30px;
     margin: 10px 0px;
+}
+
+td {
+    position: relative;
+    width:200px;height:200px; 
+}
+td span {
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px 60px;
+    font-size: 25px;
 }
